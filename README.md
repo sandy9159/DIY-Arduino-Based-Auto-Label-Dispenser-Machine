@@ -116,6 +116,29 @@ first registration to their site its limited period offer so what are waiting fo
 [Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
 
+![image](https://user-images.githubusercontent.com/19898602/129946936-1db41129-916f-4226-b542-68a53585740e.png)
+
+
+As you watched in video
+
+Most of the part of this machine is made up of 12mm wooden sheet
+
+There are mainly three wooden parts are Left, right and bottom part.
+
+I mark the necessary dimensions on the wooden sheet and cut them with the help of my mini table saw
+
+Then I placed the electrical parts and nema 17 stepper motor in between of two vertical wooden parts
+
+I have used to 8MM shaft one to hold the label roll and one to pull the roll which is directly connected to the stepper motor,
+
+Some 5 mm smooth rods are for slide guide for label
+
+one IR sensor at the bottom continually detect the presence of label if label is not present it command stepper motor to run.
+
+Some 3D printed parts are also used in this project like top cover of machine.
+
+One 16X2 LCD is used for data display and some knob and push button is used for user data input.
+
 
 
 
