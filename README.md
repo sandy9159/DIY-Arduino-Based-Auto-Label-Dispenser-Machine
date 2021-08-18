@@ -155,6 +155,7 @@ Now just power it up, and get to labeling stuff! Handily, the LCD screen will gi
 
 
 
+![MVI_0002](https://user-images.githubusercontent.com/19898602/129951195-9ea65a1f-1932-4c5e-8367-591100be7885.gif)
 
 
 
