@@ -119,7 +119,6 @@ first registration to their site its limited period offer so what are waiting fo
 ![image](https://user-images.githubusercontent.com/19898602/129946936-1db41129-916f-4226-b542-68a53585740e.png)
 
 
-As you watched in video
 
 Most of the part of this machine is made up of 12mm wooden sheet
 
@@ -140,10 +139,19 @@ Some 3D printed parts are also used in this project like top cover of machine.
 One 16X2 LCD is used for data display and some knob and push button is used for user data input.
 
 
+With that done, now add the 3D printed washers to the metal shafts, as shown. You can also add your reel of labels at this point too. 
+
+Be sure to secure the reel with the 3D printed caps to ensure the label reel is securely fixed to its mounting rod. 
+
+Feed the reel through the rods, as shown below. 
 
 
 
 
+
+With that, your Arduino-powered automatic label dispenser is basically complete. You can adjust the auto-reeling distance using the rotary encoder knob.
+
+Now just power it up, and get to labeling stuff! Handily, the LCD screen will give you an accurate count of the number of stickers you've used too. 
 
 
 
